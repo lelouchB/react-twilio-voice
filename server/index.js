@@ -12,7 +12,7 @@ const client = twilio(
   process.env.TWILIO_AUTH_TOKEN
 );
 
-const host = "https://a74f4fe6da9f.ngrok.io";
+const host = "https://your-address.ngrok.io";
 
 const app = express();
 
